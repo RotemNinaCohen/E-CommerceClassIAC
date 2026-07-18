@@ -156,10 +156,10 @@
 
 ## חלק 7: ערימת טכנולוגיות  (Tech Stack)
 
-* **צד לקוח (Frontend):** `React` + `Tailwind CSS` (נוצר ומעוצב אוטומטית על ידי Lovable).
-* **צד שרת ומסד נתונים (Backend / DB):** `Lovable Cloud` (מבוסס `Supabase` מאחורי הקלעים).
+* **צד לקוח (Frontend):** React + Vite + Tailwind CSS (נוצר באמצעות Google AI Studio / Gemini).
+* **צד שרת ומסד נתונים (Backend / DB):** `ChromaDB` (מבוסס `Supabase` מאחורי הקלעים).
 * **ניהול מצב וזיכרון (State):** שימוש ב-`localStorage` בדפדפן לניהול סל הקניות ללא צורך במסד נתונים.
-* **העלאה לאוויר (Deployment):** `Lovable Publish` (כתובת אתר חיה וחינמית להצגה בכיתה).
+* **העלאה לאוויר (Deployment):** העלאה תתבצע דקך Vercel/Netlify/הרצה מקומית.
 * **בקרת גרסאות (Version Control):** `GitHub` (סנכרון וניהול קוד).
 * **תמונות ונכסים:** `Unsplash` (קישורים חיצוניים לתמונות איכות).
 * **שפה וכיוון:** ממשק משתמש 100% בעברית עם תמיכה מובנית בכיוון מימין לשמאל (`RTL`).
